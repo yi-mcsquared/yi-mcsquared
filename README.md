@@ -2,6 +2,13 @@
 
 <!--
 **yi-mcsquared/yi-mcsquared** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!DOCTYPE html>
+<html>
+<body>
+<h1>Hello World</h1>
+<p>I'm hosted with GitHub Pages.</p>
+</body>
+</html>
 
 Here are some ideas to get you started:
 
